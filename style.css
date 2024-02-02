@@ -1,0 +1,16 @@
+main{
+    display: flex;
+    justify-content: center;
+}
+
+article{
+
+    padding: 120px;
+    background-color: cadetblue;
+margin: 200px 0 0 0;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
